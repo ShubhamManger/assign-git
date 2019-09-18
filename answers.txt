@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 1) A gitognore file is the one where the file extensions that are in the working space but are not intented for source control.
  It will include *.class file for a Java project.
  
