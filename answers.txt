@@ -1,7 +1,9 @@
-• What is a gitignore file and what should it include for a Java project?
-• What does fast-forward in Git mean?
-• Why should you have different branches?
-• In a project how many remote Git repositories do you usually have?
+
+
+
+
+
+
 
 1) A gitognore file is the one where the file extensions that are in the working space but are not intented for source control.
  It will include *.class file for a Java project.
